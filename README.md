@@ -146,4 +146,4 @@
 - Cleaned dataset saved to `data/cleaned_dataset.csv`.
 
 
-**Video:** [Youtube Link:  ](https://youtu.be/Om5p8PGYWEo)
+**Video:** [CSC 172 Data Cleaning - Youtube Demo  ](https://youtu.be/Om5p8PGYWEo)
